@@ -1,0 +1,8 @@
+USER INPUT:
+-product code -> code.random(100, 1001)
+-product name -> shoes
+-product sale cost -> any number > 0
+-product manufactur cost -> any number > 0
+-stock level -> any number > 0
+-estimated monstly poducts manufactured -> any number > 0
+
